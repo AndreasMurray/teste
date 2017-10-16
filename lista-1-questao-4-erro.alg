@@ -7,9 +7,10 @@ inicio
 
   Contador:=1
   Enquanto (Contador <=10) faca
-  Escreva("Informe o ",Contador," valor:")
-  Leia(N)
-  Escreval(Contador)
-  Contador:=Contador /2
+    Escreva("Informe o ",Contador," valor:")
+    Leia(N)
+    Escreval(Contador)
+    Contador:=Contador /2
   FimEnquanto
+
 fimalgoritmo
